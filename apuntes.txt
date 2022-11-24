@@ -1,0 +1,19 @@
+framework: conjunto de librerias, orden y estructura de codigo que nos facilita codear
+express se utiliza mucho en node
+
+npm i nodemon -D se instala como dependencia de desarrllo en cada uno de los proyectos, se hace uno por uno manualmente, de forma local
+image.png 
+npm unistall nodemon -D Para desinstalar
+
+npm i nodemon --location=global se instala nodemon de forma global, en todos los proyectos.
+
+nodemon app Para verificar la instalacion
+sino probar esto para q se levante npx nodemon app
+
+BUENA PRACTICA:
+tener 1 terminal abierta
+no tener puerto levantado // hacer ctrl+c
+
+bajar servidor con ctrl+c
+
+.gitignore // el punto indica q es un archivo oculto
