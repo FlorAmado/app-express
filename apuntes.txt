@@ -18,8 +18,14 @@ bajar servidor con ctrl+c
 
 .gitignore // el punto indica q es un archivo oculto
 
-EN CASO DE ESCRIBIR MAL LA URL
+EN CASO DE ESCRIBIR MAL LA URL:
 git remote remove origin 
 git remote - v
-git remote add origin https://github.com/
-FlorAmado/app-express.git
+git remote add origin https://github.com/FlorAmado/app-express.git
+
+COMANDO QUE HACER EN LA CARPETA CLONADA DE APP-EXPRESS:
+npm i
+nodemon app
+
+
+
