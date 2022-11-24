@@ -17,3 +17,9 @@ no tener puerto levantado // hacer ctrl+c
 bajar servidor con ctrl+c
 
 .gitignore // el punto indica q es un archivo oculto
+
+EN CASO DE ESCRIBIR MAL LA URL
+git remote remove origin 
+git remote - v
+git remote add origin https://github.com/
+FlorAmado/app-express.git
